@@ -1,0 +1,20 @@
+.styleItem p{
+
+font-size: 25px;
+
+}
+
+.styleItem img{
+
+width: 5%;
+
+}
+
+.styleItem{
+
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+}

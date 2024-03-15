@@ -1,0 +1,44 @@
+.styleHeader {
+
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.styleHeader img {
+
+    width: 12%;
+    height: 12%;
+    margin-right: 10px;
+
+}
+
+.styleHeader h2 {
+
+    font-size: 50px;
+
+}
+
+.containerHeader{
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+font-size: 50px;
+margin: 0 40px;
+text-decoration: none;
+
+}
+
+.containerHeader a{
+
+    color: white;
+
+}
+
+.containerHeader a:hover{
+
+    color: #F34DA9;
+
+}

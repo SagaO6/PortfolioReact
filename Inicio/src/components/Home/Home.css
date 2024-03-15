@@ -1,0 +1,54 @@
+.home {
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80vh;
+
+}
+
+.sobreMimLink {
+
+  text-decoration: none;
+  border-right: 3px solid #F34DA9;
+  padding: 0 30PX;
+
+
+}
+
+.menu {
+
+  display: flex;
+  margin-left: 95px;
+
+}
+
+.sobreMimLink:last-child {
+
+  border: none;
+
+}
+
+.sobreMimLink a {
+
+  text-decoration: none;
+
+}
+
+span {
+
+  color: #F34DA9;
+
+}
+
+.logo {
+
+  width: 350px;
+
+}
+
+h1 {
+
+  font-size: 100px;
+
+}
